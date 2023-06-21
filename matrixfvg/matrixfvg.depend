@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1606760062 source:d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"inout.h"
+	"mmuvelet.h"
+	<windows.h>
+
+1604263387 source:d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\debugmalloc.c
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1604264037 d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1606760207 source:d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\inout.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"inout.h"
+	"mmuvelet.h"
+
+1606226663 source:d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\mmuvelet.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"inout.h"
+	"mmuvelet.h"
+
+1605697566 d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\inout.h
+
+1606045308 d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\mmuvelet.h
+
+1604830270 d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\mallocom.h
+
+1604788947 source:d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\mallocom.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"inout.h"
+	"mmuvelet.h"
+	"mallocom.h"
+
+1606225091 d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\econio.h
+	<stdbool.h>
+
+1606225478 source:d:\martin\iskola\!bme\programozás\c\szemeszter1\!nhf\program\matrixfvg\econio.c
+	"debugmalloc.h"
+	"inout.h"
+	"mmuvelet.h"
+	"econio.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<assert.h>
+	<assert.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<stdbool.h>
+	<sys/time.h>
+	<sys/types.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1606760208 source:c:\users\user\iskola\bme\szemeszter1\programozás\c\szemeszter1\!nhf\program\matrixfvg\inout.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"inout.h"
+	"mmuvelet.h"
+
+1604264038 c:\users\user\iskola\bme\szemeszter1\programozás\c\szemeszter1\!nhf\program\matrixfvg\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1605697568 c:\users\user\iskola\bme\szemeszter1\programozás\c\szemeszter1\!nhf\program\matrixfvg\inout.h
+
+1606045310 c:\users\user\iskola\bme\szemeszter1\programozás\c\szemeszter1\!nhf\program\matrixfvg\mmuvelet.h
+
+1606760064 source:c:\users\user\iskola\bme\szemeszter1\programozás\c\szemeszter1\!nhf\program\matrixfvg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"inout.h"
+	"mmuvelet.h"
+	<windows.h>
+
+1606226664 source:c:\users\user\iskola\bme\szemeszter1\programozás\c\szemeszter1\!nhf\program\matrixfvg\mmuvelet.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"inout.h"
+	"mmuvelet.h"
+
